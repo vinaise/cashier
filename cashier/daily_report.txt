@@ -1,0 +1,22 @@
+Daily Report
+====================
+
+1.txt:
+  Number of items: 5
+  Item keys: sandwich4
+  Order Total: $34.95
+====================
+
+2.txt:
+  Number of items: 8
+  Item keys: dessert4, drink4
+  Order Total: $22.92
+====================
+
+3.txt:
+  Number of items: 9
+  Item keys: sandwich3, drink3, dessert3
+  Order Total: $19.91
+====================
+
+Total Sales: $77.78

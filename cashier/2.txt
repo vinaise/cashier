@@ -1,0 +1,6 @@
+Receipt
+====================
+6 x dessert4 - Ice Cream - $17.94
+2 x drink4 - Orange Juice - $4.98
+====================
+Total: $22.92

@@ -1,0 +1,5 @@
+Receipt
+====================
+5 x sandwich4 - Chicken Sandwich - $34.95
+====================
+Total: $34.95
